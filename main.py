@@ -5,6 +5,9 @@ The program writes the entrant's single fortune cookie line to
 /output/entry.txt: a fortune for a crypto trader who has just been
 liquidated, at most 20 words of plain text. The line is a fixed
 string, so every run writes byte-identical output.
+
+The joke turns on the fortune's own promise: the portfolio does rise
+again, just never the one the trader lost.
 """
 
 import os
